@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Fontend Developer from Italy</p>
+<p align="left">I'm a Fontend Developer from Italy 🇮🇹</p>
 
 ###
 
