@@ -17,7 +17,7 @@
 <br>
 🎲 Fun fact: <i>"Think, Write, Realize" </i> - turn ideas into reality! 
 <br>
-✍️ <i> ”Done is better than perfect” - Denis Virsag</i> </p>
+✍️ <i> Remember: ”Done is better than perfect”</i> </p>
 
 
 ###
