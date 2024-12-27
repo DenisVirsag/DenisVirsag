@@ -17,7 +17,7 @@
 <br>
 🎲 Fun fact: <i>"Think, Write, Realize" </i> - turn ideas into reality! 
 <br>
-✍️ Remember: <i>”Done is better than perfect”</i> </p>
+✍️ <i>”Done is better than perfect”</i> </p>
 
 
 ###
